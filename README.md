@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itechqasim
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Backend Technologies
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate with Google
 - 📫 How to reach me Insta __qasim110
 
 <!---
